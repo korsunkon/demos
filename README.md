@@ -1,1 +1,1 @@
-# Here there are demos of my projects.
+# My projects on data science.
